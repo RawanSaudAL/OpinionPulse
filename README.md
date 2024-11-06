@@ -33,6 +33,6 @@ Dataset: Collection of customer reviews, containing textual data for sentiment c
 
 # Future Enhancements
 
--Support for Multiple Languages: Extend sentiment analysis capabilities to reviews in various languages.
+- Support for Multiple Languages: Extend sentiment analysis capabilities to reviews in various languages.
 - Enhanced Models: Explore deep learning models like LSTM or BERT for improved sentiment accuracy.
 - Trend Visualization: Implement visual tools to track sentiment trends over time.
